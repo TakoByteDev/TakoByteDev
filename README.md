@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TakoByteDev
+- 👀 I’m interested in: Anime, JRPGS, and other games
+- 🌱 I’m currently learning: JS, C#, and Electron
+- 📫 How to reach me: My Discord is Tako#1220
